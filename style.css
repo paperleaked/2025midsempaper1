@@ -1209,7 +1209,7 @@ cursor: pointer;
 .main-content {
   display: block;
 }
-@media (max-width: 600px) {
+@media (max-width: 60px) {
   .not-supported {
     display: block;
     text-align: center;
